@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "0"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "first test/ViewController.m"
+            timestampString = "548516137.540013"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "118"
+            endingLineNumber = "118"
+            landmarkName = "-beginBtnClick:"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "first test/ViewController.m"
+            timestampString = "548516137.540518"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "playerTag"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController playerTag]"
+                  moduleName = "first test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jinhandong/Desktop/iOS%20/%E7%9F%B3%E5%A4%B4%E5%89%AA%E5%88%80%E5%B8%83/iOSProjects/%E7%9F%B3%E5%A4%B4%E5%89%AA%E5%88%80%E5%B8%83/first%20test/first%20test/ViewController.m"
+                  timestampString = "548491717.359365"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController setPlayerTag:]"
+                  moduleName = "first test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jinhandong/Desktop/iOS%20/%E7%9F%B3%E5%A4%B4%E5%89%AA%E5%88%80%E5%B8%83/iOSProjects/%E7%9F%B3%E5%A4%B4%E5%89%AA%E5%88%80%E5%B8%83/first%20test/first%20test/ViewController.m"
+                  timestampString = "548491717.364108"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "20"
+                  endingLineNumber = "20"
+                  offsetFromSymbolStart = "35">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "first test/ViewController.m"
+            timestampString = "548516137.540894"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "PScore"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController PScore]"
+                  moduleName = "first test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jinhandong/Desktop/iOS%20/%E7%9F%B3%E5%A4%B4%E5%89%AA%E5%88%80%E5%B8%83/iOSProjects/%E7%9F%B3%E5%A4%B4%E5%89%AA%E5%88%80%E5%B8%83/first%20test/first%20test/ViewController.m"
+                  timestampString = "548509609.224502"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[ViewController setPScore:]"
+                  moduleName = "first test"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jinhandong/Desktop/iOS%20/%E7%9F%B3%E5%A4%B4%E5%89%AA%E5%88%80%E5%B8%83/iOSProjects/%E7%9F%B3%E5%A4%B4%E5%89%AA%E5%88%80%E5%B8%83/first%20test/first%20test/ViewController.m"
+                  timestampString = "548509609.230231"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "49">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
